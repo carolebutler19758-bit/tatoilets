@@ -1,0 +1,47 @@
+ <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 0px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">Do you offer same-day delivery for urgent needs?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, we understand that requirements can change instantly. We strive to accommodate same-day delivery requests whenever inventory and logistics permit. Contact our dispatch team immediately to check availability for your specific location.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How often is service provided for long-term rentals?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">For long-term placements, we typically schedule weekly service visits. This includes pumping out the waste tank, cleaning the interior, and restocking supplies. We can adjust this frequency based on the volume of usage and your specific project needs</p>
+                <h4 class="template4 palooma" style="font-size:large;">Are your units compliant with health standards?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Absolutely. All our portable toilets and trailers meet or exceed USA's state health and safety codes. We regularly update our inventory and training to stay in full compliance with all local regulations.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How far in advance should I schedule my rental?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We recommend booking your units at least one week in advance for standard needs. For large events or luxury trailers, reserving your equipment a month ahead ensures availability and allows us to plan the logistics perfectly.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How often are the units serviced?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Our standard rental agreement includes one service visit per week. This service includes pumping the waste tank, cleaning the interior, and restocking supplies. We can increase this frequency based on usage volume and your specific requirements.</p>
+                <div class="callalooma mx-auto"><a href="tel:870-306-3280">Click Here To Call Us (870) 306-3280</a></div>
+            </div>
+        </div>
+        </section>
+       </div>
+
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">States In USA</h2>
+        <div class="row">
+            aloomaidallfotter
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Most popular cities we serve</h2>
+        <div class="row">
+            aloomaidallfottecity
+        </div>
+        </section>
+    </div>
